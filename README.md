@@ -33,6 +33,7 @@
 ## Featured Project — Changelog Template
 ### Project Description & Purpose
 - A customizable changelog template that empowers product teams to communicate updates with clarity and consistent branding. Built for rapid onboarding, documentation excellence, and SEO-friendly release notes.
+- Presents product updates, releases, and improvements in a beautiful, chronological timeline that gives stakeholders instant context on shipping velocity and strategic direction.
 
 ### Key Features & Benefits
 - **Versioned release workflow:** Streamlines announcement cadence with predefined sections for features, fixes, and improvements, reducing drafting time by up to 40%.
@@ -44,6 +45,7 @@
 - Next.js 15, React 19, TypeScript 5
 - TailwindCSS 4, Fumadocs UI, next-themes
 - radix-ui primitives, shadcn/ui components, Vercel deployment workflows
+- Content governance powered by MDX, incremental static regeneration, and analytics-ready metadata for SEO experiments.
 
 ### Target Audience & Use Cases
 - SaaS founders, product managers, and developer advocates requiring a polished changelog without heavy overhead.
